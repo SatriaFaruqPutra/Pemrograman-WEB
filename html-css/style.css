@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    width:  700px;
+}
+div {
+    border: 2px solid red;
+    margin: 150px 10px 30px 50px;
+    /* margin-left: 170px; */
+    padding-top: 40px;
+}
+nav{
+    border: 3px solid black;
+    margin-left: 10px;
+}
+.batas {
+    margin-left: 200px;
+}
+.warna {
+    background-color: wheat;
+}
+#bekgron {
+    background-color: blue;
+    position: relative;
+    left: 200px;
+}
+#geser {
+    margin-left: 200px;
+}
